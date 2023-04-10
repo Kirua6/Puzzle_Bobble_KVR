@@ -177,7 +177,7 @@ window.requestAnimationFrame(main);
 if (!initialized) {
     // Afficher un écran de chargement
     
-    // Effacer le canevas
+    // Effacer le canvas
     context.clearRect(0, 0, canvas.width, canvas.height);
     
     // Dessiner l'image de fond
