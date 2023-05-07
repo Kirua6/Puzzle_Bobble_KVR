@@ -1028,4 +1028,4 @@ function getMousePos(canvas, e) {
 // Appeler init pour démarrer le jeu
 init();
 };
-
+// KVR
